@@ -1,6 +1,6 @@
-##  CodeAlpha_sales Data Analytics, EDA 
+##  sales Data Analytics_EDA 
 
-## Data Analytics Internship Project – CodeAlpha
+## Data Analytics  Project 
 This repository contains real-world data analytics tasks completed during my internship at CodeAlpha, where I performed data cleaning, exploratory data analysis and built interactive Power BI dashboards to generate actionable business insights.
 
 
