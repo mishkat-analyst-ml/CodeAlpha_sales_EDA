@@ -71,7 +71,7 @@ This project performs Exploratory Data Analysis (EDA) on a retail sales dataset 
 
  ## Author
 ## Mishkat ullah
-## Data Analyst |python | Excel | BI | SQL | Busniess Intelligence
+## Data Analyst | python | Excel | BI | SQL | Busniess Intelligence
 
  Github:  https://github.com/mishkat-analyst-ml
  
