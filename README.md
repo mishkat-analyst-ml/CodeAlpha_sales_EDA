@@ -1,9 +1,5 @@
 ##  sales Data Analytics_EDA 
 
-## Data Analytics  Project 
-This repository contains real-world data analytics tasks completed during my internship at CodeAlpha, where I performed data cleaning, exploratory data analysis and built interactive Power BI dashboards to generate actionable business insights.
-
-
 ## 📌 Overview
 
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset to uncover key business insights and trends. The goal is to analyze sales performance, understand customer behavior, and support data-driven decision-making.
